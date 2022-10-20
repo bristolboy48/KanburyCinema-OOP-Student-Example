@@ -56,7 +56,7 @@
             // 
             // buttonNext
             // 
-            this.buttonNext.Location = new System.Drawing.Point(214, 465);
+            this.buttonNext.Location = new System.Drawing.Point(404, 465);
             this.buttonNext.Name = "buttonNext";
             this.buttonNext.Size = new System.Drawing.Size(120, 50);
             this.buttonNext.TabIndex = 1;
@@ -75,7 +75,7 @@
             // 
             // textBoxRunningTime
             // 
-            this.textBoxRunningTime.Location = new System.Drawing.Point(177, 459);
+            this.textBoxRunningTime.Location = new System.Drawing.Point(153, 441);
             this.textBoxRunningTime.Name = "textBoxRunningTime";
             this.textBoxRunningTime.Size = new System.Drawing.Size(120, 20);
             this.textBoxRunningTime.TabIndex = 3;
@@ -98,7 +98,7 @@
             // 
             // textBoxDirector
             // 
-            this.textBoxDirector.Location = new System.Drawing.Point(177, 371);
+            this.textBoxDirector.Location = new System.Drawing.Point(138, 374);
             this.textBoxDirector.Name = "textBoxDirector";
             this.textBoxDirector.Size = new System.Drawing.Size(120, 20);
             this.textBoxDirector.TabIndex = 7;
@@ -149,7 +149,7 @@
             this.pictureBoxMovie.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.pictureBoxMovie.Location = new System.Drawing.Point(122, 12);
             this.pictureBoxMovie.Name = "pictureBoxMovie";
-            this.pictureBoxMovie.Size = new System.Drawing.Size(246, 301);
+            this.pictureBoxMovie.Size = new System.Drawing.Size(246, 282);
             this.pictureBoxMovie.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBoxMovie.TabIndex = 12;
             this.pictureBoxMovie.TabStop = false;
@@ -158,7 +158,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(348, 527);
+            this.ClientSize = new System.Drawing.Size(536, 527);
             this.Controls.Add(this.textBoxName);
             this.Controls.Add(this.labelName);
             this.Controls.Add(this.textBoxCertificate);
